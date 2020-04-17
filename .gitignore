@@ -7,5 +7,4 @@ visdom*.tgz
 visdom.egg-info/
 setup.cfg
 __pycache__/
-py/visdom/static/js/layout_bin_packer.js
 py/visdom/extra_deps/**/*
