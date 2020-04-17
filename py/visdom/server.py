@@ -1882,7 +1882,7 @@ def main(print_func=None):
 
 
 def download_scripts_and_run():
-    download_scripts()
+    # download_scripts()
     main()
 
 
